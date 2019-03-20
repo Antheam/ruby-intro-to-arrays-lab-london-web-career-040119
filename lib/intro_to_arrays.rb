@@ -1,3 +1,3 @@
-def instantiatiate
+def instantiatiating
 @my_new_array = []
 end
