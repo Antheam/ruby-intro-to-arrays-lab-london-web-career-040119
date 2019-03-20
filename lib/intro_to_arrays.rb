@@ -6,5 +6,5 @@ def array_with_two_elements
   @my_two_array =['blue','green']
 end
 
-my_first_element[0]
+array[0]
 
