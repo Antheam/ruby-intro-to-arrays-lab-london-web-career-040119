@@ -8,7 +8,5 @@ end
 
 
 
-@my_two_array[0]
-
 
 
